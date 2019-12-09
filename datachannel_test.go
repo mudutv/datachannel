@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/logging"
-	"github.com/pion/sctp"
-	"github.com/pion/transport/test"
+	"github.com/mudutv/logging"
+	"github.com/mudutv/sctp"
+	"github.com/mudutv/transport/test"
 	"github.com/stretchr/testify/assert"
 )
 
